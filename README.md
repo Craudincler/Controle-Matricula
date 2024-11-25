@@ -12,7 +12,7 @@ Buscar Alunos:
   - Busca Sequencial.
   - Busca Binária (requer lista ordenada).
     
-Ordenar Alunos:
+Ordenar Alunos: 
 
 -Ordena os alunos por identificador usando:
   - Insertion Sort.
