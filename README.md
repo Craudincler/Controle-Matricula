@@ -13,18 +13,20 @@ Buscar Alunos:
   - Busca Binária (requer lista ordenada).
     
 Ordenar Alunos:
+
 -Ordena os alunos por identificador usando:
   - Insertion Sort.
   - Selection Sort.
   - QuickSort.
     
 Exibir Alunos:
-  -Filtra e exibe alunos com base nos seguintes critérios:
-    - Apenas aprovados.
-    - Apenas reprovados.
-    - Média maior ou igual a 9.
-    - Média menor ou igual a 5.
-  Todos os alunos.
+
+-Filtra e exibe alunos com base nos seguintes critérios:
+  - Apenas aprovados.
+  - Apenas reprovados.
+  - Média maior ou igual a 9.
+  - Média menor ou igual a 5.
+  - Todos os alunos.
   
 Remover Matrículas:
   - Remove um aluno específico pelo identificador.
